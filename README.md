@@ -4,11 +4,11 @@ Playing around with uikit
 
     git clone https://github.com/uikit/uikit
 
-Enter uikit and clone template into `custom/`
+Enter `uikit` and clone template into `custom`
 
-    git clone https://github.com/diversen/uikit-template custom
+    cd uikit && git clone https://github.com/diversen/uikit-template custom
 
-Inside `custom` the template exists, called `blue`
+Inside `custom` the template exists - called `blue`
 
 (Only changes are in `blue/core/base.less` - smallere font, grey background)
 
