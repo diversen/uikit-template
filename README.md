@@ -1,6 +1,7 @@
 # uikit-template 
 
-Playing around with uikit
+Playing around with uikit. This is just a repo to see how to set up a uikit development env for creating a uikit 
+template. The template is not for public use, only if you want a crappy looking template .)
 
     git clone https://github.com/uikit/uikit
 
